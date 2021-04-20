@@ -1,0 +1,15 @@
+{
+    "lang": "zh-CN",
+    "text": {
+        "zh-CN": {
+            "update": "已将 {name}.{domain} 的IP更新为{local_ip}",
+            "same": "本机IP {local_ip} 与服务器IP {remote_ip} 相同 不作更改",
+            "show": "现在服务器显示IP为: {remote_ip}"
+        },
+        "en-US": {
+            "update": "The IP address of {name}.{domain} has been updated to {local_ip}.",
+            "same": "local IP {local_ip} is the same as remote IP {remote_ip}. No changing.",
+            "show": "GoDaddy server shows IP is: {remote_ip} now."
+        }
+    }
+}
