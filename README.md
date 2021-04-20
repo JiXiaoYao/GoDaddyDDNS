@@ -5,7 +5,7 @@ A DDNS Python script for GoDaddy
 
 ### First step:
 
-Download *main.py* and *lang.json* and create a new call *"config.json"*
+Download *main.py* and *lang.json* and create a new file call *"config.json"*
 
 ### Second step:
 
